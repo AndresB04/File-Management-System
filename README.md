@@ -1,6 +1,6 @@
 # Login-System
-Simple Login System
-This is a simple login system that allows users to sign up, log in, and create or open a page.
+Simple File Management System
+This is a simple login system that allows users to sign up, log in, and create, edit or open a page.
 
 How to Use
 Compile the code using a C++ compiler.
