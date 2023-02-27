@@ -16,6 +16,3 @@ If you would like to contribute to this project, please fork the repository and 
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
-
-Contact
-If you have any questions or concerns regarding this project, please contact [insert contact information here].
